@@ -2,8 +2,11 @@
 Programı çalıştırabilmek için gerekli tüm modülleri kurmanız gerekiyor.
 
 pip install tkinter
+
 pip install requests
+
 pip install bs4
+
 pip install jsbeautifier
 
 Gerekli tüm modülleri eksiksiz bir şekilde kurduktan sonra python dosya_adi.py yazıp terminal'den çalıştırabilirsiniz.
